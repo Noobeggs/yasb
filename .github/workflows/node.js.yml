@@ -33,5 +33,5 @@ jobs:
       uses: actions/upload-artifact@v3
       with:
         name: yasb_0.1.0_x64_en-US.msi
-        path: /src-tauri/target/release/bundle/msi/
+        path: yasb/src-tauri/target/release/bundle/msi/
 
